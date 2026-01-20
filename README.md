@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>I’m a beginner Home Lab enthusiast who’s excited about learning how things work behind the scenes — especially networking, infrastructure, and self-hosted systems.<br><br>I’m still early in my journey, but I love:<br><br>🧪 Experimenting in my home lab<br><br>🌐 Learning the basics of networking (VLANs, DNS, routing, firewalls)<br><br>🏗️ Setting up servers, VMs, and containers<br><br>🔁 Breaking things and figuring out how to fix them<br><br>📚 Learning by doing, documenting, and repeating<br><br>Right now, I’m focused on building a solid foundation and understanding why things work, not just how to set them up.<br><br>
+I’m a beginner Home Lab enthusiast who’s excited about learning how things work behind the scenes — especially networking, infrastructure, and self-hosted systems.<br><br>I’m still early in my journey, but I love:<br><br>🧪 Experimenting in my home lab<br><br>🌐 Learning the basics of networking (VLANs, DNS, routing, firewalls)<br><br>🏗️ Setting up servers, VMs, and containers<br><br>🔁 Breaking things and figuring out how to fix them<br><br>📚 Learning by doing, documenting, and repeating<br><br>Right now, I’m focused on building a solid foundation and understanding why things work, not just how to set them up.<br><br>
 
 
 ## 🌐 Socials:
